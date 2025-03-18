@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/1200px-Airbnb_Logo_B%C3%A9lo.svg.png" alt="Airbnb Boston Banner" width="600">
   <span style="font-size: 3rem; color: #FF5A5F; font-weight: bold; font-family: 'Arial';">Boston, Massachusetts, USA</span>
-
 </p>
 
 ## 📝 Description
